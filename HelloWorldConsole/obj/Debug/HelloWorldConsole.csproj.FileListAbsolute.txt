@@ -1,0 +1,5 @@
+C:\Sherry\InterviewQuestion\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Sherry\InterviewQuestion\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Sherry\InterviewQuestion\HelloWorld\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Sherry\InterviewQuestion\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Sherry\InterviewQuestion\HelloWorld\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
